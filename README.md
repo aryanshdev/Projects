@@ -9,7 +9,7 @@ Here are all the Projects that I have worked on. <br />
 | [Weathery](#weathery)| Android Dev|  
 | [NoteCraft-AI](#notecraft-ai)| Web Dev| 
 | [Swipe Wheels](#swipe-wheels) | Game Dev|  
-| CoinCart | Web Dev| 
+| [CoinCart](#coincart) | Web Dev| 
 | SliperyBoi| Game Dev| 
 
 
@@ -34,7 +34,7 @@ Weathery delivers real-time updates and instant alerts for storms, rain, heatwav
 <img src="https://github.com/aryanshdev/NoteCraft/blob/main/Frontend/public/NoteCraft%20-%20AI.png?raw=true" />
 
 <div align="center">
-<a href="https://coincart.onrender.com/"> Try NoteCraft </a>
+<a href="https://notecraft-ai.onrender.com/"> Try NoteCraft </a>
 </div>
 </br>
 
