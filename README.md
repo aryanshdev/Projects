@@ -21,6 +21,7 @@ Here are all the Projects that I have worked on. <br />
   <a href="https://play.google.com/store/apps/details?id=com.CPLLabs.weathery&hl=en-US">Download Now</a> | 
   <a href="https://github.com/cpllabs/Weathery_Source_Code/">Source Code</a>
 </div>
+</br>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_play_Store-0D96F6?style=for-the-badge&logo=google-play&logoColor=white)
 
@@ -33,6 +34,7 @@ Weathery delivers real-time updates and instant alerts for storms, rain, heatwav
 <div align="center">
   <a href="https://play.google.com/store/apps/details?id=com.CPLLabs.SwipeWheels">Download Now</a> 
 </div>
+</br>
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Google Play](https://img.shields.io/badge/Google_play_Store-0D96F6?style=for-the-badge&logo=google-play&logoColor=white)
 
@@ -44,6 +46,7 @@ Weathery delivers real-time updates and instant alerts for storms, rain, heatwav
 <div align="center">
 <a href="https://coincart.onrender.com/"> Check Out CoinCart</a>
 </div>
+</br>
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
