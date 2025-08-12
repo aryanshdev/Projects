@@ -10,7 +10,10 @@ Here are all the Projects that I have worked on. <br />
 | [NoteCraft-AI](#notecraft-ai)| Web Dev| 
 | [Swipe Wheels](#swipe-wheels) | Game Dev|  
 | [CoinCart](#coincart) | Web Dev| 
-| SliperyBoi| Game Dev| 
+| [SliperyBoi](#sliperyboi) | Game Dev| 
+| [Hexagonal Tap](#hexagonal-tap) | Game Dev| 
+| StackChat | Under Development | 
+| Commitly | Under Development | 
 
 
 ## Weathery
@@ -62,6 +65,21 @@ Weathery delivers real-time updates and instant alerts for storms, rain, heatwav
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-**CoinCart** is a fully functional web store prototype that favors cryptocurrency as a mode of payment. CoinCart is equipped with every essential feature that an online app marketplace ought to have. CoinCart provides everything you need, from cart to reviews, from adding new users to buying.
+CoinCart is a fully functional Crypto Based Marketplace that allows user to directly use their Crypto Assets to shop on the platform. It features a functional Rating and Review System, Profile Management, Order Management, Product Search and Other Functionalities.
+
 ## SliperyBoi
+<img src="https://www.thegreatapps.com/application/upload/Apps/2020/07/sliperyboi-91.png" />
+<div align="center">
+<a> CURRENTLY UNAVAILABLE </a>
+</div>
+</br>
+
+**SliperyBoi** is an Endless Online Multiplayer game where players navigate a slippery character through an obstacle-filled course, challenging precision and control to achieve high scores in one of the toughest casual games available.
+
 ## Hexagonal Tap
+<img src="https://m.media-amazon.com/images/I/91tbOQ+igFL._SL500_UX1920_CR0%2C0%2C1920%2C1080_.jpg" />
+<div align="center">
+<a href="https://www.amazon.in/CPL-Software-Labs-Hexagonal-Tap/dp/B08CSQGRWN"> Download Now via Amazon </a>
+</div>
+
+**Hexagonal Tap** is a fast-paced arcade game where players must tap and destroy falling hexagons before they reach the lava. Featuring realistic physics, a coin reward system, and unlockable power-ups, the game challenges players' reflexes and timing to achieve high scores and climb global leaderboards.
