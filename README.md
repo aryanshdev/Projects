@@ -12,7 +12,7 @@ Here are all the Projects that I have worked on. <br />
 | [CoinCart](#coincart) | Web Dev| 
 | [SliperyBoi](#sliperyboi) | Game Dev| 
 | [Hexagonal Tap](#hexagonal-tap) | Game Dev| 
-| StackChat | Under Development | 
+| [StackChat](#stackchat) | Under Development | 
 | Commitly | Under Development | 
 
 
@@ -83,3 +83,8 @@ CoinCart is a fully functional Crypto Based Marketplace that allows user to dire
 </div>
 
 **Hexagonal Tap** is a fast-paced arcade game where players must tap and destroy falling hexagons before they reach the lava. Featuring realistic physics, a coin reward system, and unlockable power-ups, the game challenges players' reflexes and timing to achieve high scores and climb global leaderboards.
+
+## StackChat
+> UNDER DEVELOPMENT
+
+**StackChat** is a social chat app for developers connecting like minded programmers around the globe. 
