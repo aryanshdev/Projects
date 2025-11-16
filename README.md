@@ -11,6 +11,7 @@ Here are all the Projects that I have worked on. <br />
 | [Swipe Wheels](#swipe-wheels) | Game Dev|  
 | [CoinCart](#coincart) | Web Dev| 
 | [SliperyBoi](#sliperyboi) | Game Dev| 
+| [MailNews](#mailnews) | Web Dev| 
 | [Hexagonal Tap](#hexagonal-tap) | Game Dev| 
 | [StackChat](#stackchat) | Under Development | 
 | Commitly | Under Development | 
@@ -75,6 +76,14 @@ CoinCart is a fully functional Crypto Based Marketplace that allows user to dire
 </br>
 
 **SliperyBoi** is an Endless Online Multiplayer game where players navigate a slippery character through an obstacle-filled course, challenging precision and control to achieve high scores in one of the toughest casual games available.
+
+## MailNews
+
+<div align="center">
+<a href="https://mailnews.onrender.com"> Check Out Now </a>
+</div>
+
+**MailNews** is a platform that provides the latest news around the globe on 6 broad topics, summarised by **NLP**! Not only this, you can create an account to receive these latest summarised news articles of your preferred topics, directly in your email inbox, at your preferred time!
 
 ## Hexagonal Tap
 <img src="https://m.media-amazon.com/images/I/91tbOQ+igFL._SL500_UX1920_CR0%2C0%2C1920%2C1080_.jpg" />
