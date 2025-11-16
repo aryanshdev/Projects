@@ -66,7 +66,7 @@ Weathery delivers real-time updates and instant alerts for storms, rain, heatwav
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-CoinCart is a fully functional Crypto Based Marketplace that allows user to directly use their Crypto Assets to shop on the platform. It features a functional Rating and Review System, Profile Management, Order Management, Product Search and Other Functionalities.
+CoinCart is a fully functional Crypto-Based Marketplace that allows user to directly use their Crypto Assets to shop on the platform. It features a functional Rating and Review System, Profile Management, Order Management, Product Search and Other Functionalities.
 
 ## SliperyBoi
 <img src="https://www.thegreatapps.com/application/upload/Apps/2020/07/sliperyboi-91.png" />
@@ -79,6 +79,10 @@ CoinCart is a fully functional Crypto Based Marketplace that allows user to dire
 
 ## MailNews
 
+<img width="1920" height="1080" alt="MailNews" src="https://github.com/user-attachments/assets/7845a0d5-f93a-4735-a888-ecf20dbd09e8" />
+
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/tailwind-%238511FA.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 <div align="center">
 <a href="https://mailnews.onrender.com"> Check Out Now </a>
 </div>
